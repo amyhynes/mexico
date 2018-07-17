@@ -1,4 +1,4 @@
-// Amy Hynes, 260716296
+// Amy Hynes
 // a program that simulates a game of Mexico
 public class Mexico {
   public static void main(String[] args) {
